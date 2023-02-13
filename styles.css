@@ -1,0 +1,46 @@
+table {
+    width: 400px;
+
+}
+
+th {
+    text-align: left;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+th {
+    background-color: azure;
+}
+
+.body {
+    background-color: beige;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+    border-radius: 90%;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.header {
+    background-color: rgb(145, 228, 228);
+    text-align: center;
+}
